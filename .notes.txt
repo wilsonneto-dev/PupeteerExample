@@ -1,0 +1,6 @@
+ok - login
+ok - open the report
+ok - download the excel
+- scrap the data from table
+- upload the excel to a blob
+- send email
